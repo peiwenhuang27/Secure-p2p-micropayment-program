@@ -2,6 +2,8 @@
 
 **cr. Professor Yeali S. Sun, extracted from Programming Assignment in Computer Networks course**
 
+**(archived)**
+
 一套具安全傳輸的簡單網際網路第三方支付使用者對使用者小額付款(Micropayment)系統。
 此系統包含三大功能:
 - 第三方支付 Server 端對 Client 端(使用者)的統一管理，包含帳號管理、好友 名單管理、認證以及 Client 帳戶管理等。
