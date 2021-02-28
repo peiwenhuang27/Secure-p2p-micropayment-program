@@ -11,7 +11,9 @@
 Client 端的兩個主要功能:
 - 安全的與第三方支付 Server 的通訊
 - 一對一安全的 Client 間對談
+
 Multi-threaded Server 端的主要功能:
 - 接受 Client 的安全連結，並根據要求(request)回覆訊息(reply)
+
 安全通訊的主要功能:
 - 每一個 Client 與 Server 間，以及 Client 間的通訊，都必須加密，加密的鑰匙 (encryption key，又稱 secret key )由當下通訊的雙方議定。
